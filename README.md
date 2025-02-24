@@ -1,8 +1,6 @@
 # MM Toolbox
 **MM Toolbox** is a Python library designed to provide high-performance tools for market making strategies.
 
-New change
-
 ## Contents
 ```plaintext
 mm-toolbox/
